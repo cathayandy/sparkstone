@@ -1,0 +1,12 @@
+h3, h4, p, div, a, b {
+    font-family: Microsoft YaHei, simhei;
+}
+.bg-light {
+    background: #FFFFFF!important;
+}
+.bg-dark {
+    background: #F8F8F8!important;
+}
+.overlay-slide img {
+    height: auto;
+}
